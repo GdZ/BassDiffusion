@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!--
 *************************************************
-	         AnyLogic Project File 
+			 AnyLogic Project File 
 *************************************************	         
 -->
 <AnyLogicWorkspace WorkspaceVersion="1.9" AnyLogicVersion="6.4.1.200910151246" AlpVersion="6.2.3">
@@ -697,4 +697,11 @@ getEngine().getPresentation().setPresentable( getEngine().getRoot() );]]></Actio
 		</SimulationExperiment>	
 	</Experiments>
 </Model>
+<!--
+***********************************************************************
+                            License
+This is license under the [MIT](http://opensource.org/licenses/MIT) license.
+See [LICENSE.md](https://github.com/GdZ/BassDiffusion/blob/master/LICENSE.md)
+***********************************************************************
+-->
 </AnyLogicWorkspace>
